@@ -167,6 +167,9 @@
     <ClCompile Include="..\..\src\libsphinxbase\lm\ngrams_raw.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\pocketsphinx-android\build\generated-src\cpp\sphinxbase_cs_wrap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\sphinxbase\ad.h">
